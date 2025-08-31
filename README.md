@@ -41,7 +41,7 @@ The dataset includes:
   - Preprocessed signals (blink removal, interpolation, filtering, baseline correction, z-score normalization).  
   - Trial-wise averaged pupil dilation values (by condition).  
 
-Full data, preprocessing scripts, and analysis code (a zip of the present directory) are also hosted on the **Open Science Framework (OSF): [https://osf.io/9mqhd/](https://osf.io/9mqhd/)**.
+Full data, preprocessing scripts, and analysis code (a zip of the present directory) are also hosted on the **Open Science Framework (OSF): [https://osf.io/9mqhd/](https://osf.io/9mqhd/)**. Note that owing to file size, .edf files are provided only on OSF. These files will need to be added to the relevant data directories or the code used to read the files modified to check for .rds files to gather file names.
 
 ---
 
