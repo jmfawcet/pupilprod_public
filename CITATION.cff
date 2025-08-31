@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the following work."
+title: "Pupillometric Production Effect Data"
+type: dataset
+authors:
+  - family-names: Fawcett
+    given-names: Jonathan M.
+    orcid: "https://orcid.org/0000-0003-4040-5062"
+  - family-names: Roberts
+    given-names: Brady R. T.
+  - family-names: Willoughby
+    given-names: Hannah
+  - family-names: Tiller
+    given-names: Jenny
+  - family-names: Hourihan
+    given-names: Kathleen L.
+  - family-names: MacLeod
+    given-names: Colin M.
+version: "1.0.0"
+doi: "10.2139/ssrn.5210001"
+date-released: "2025-08-31"
+url: "https://github.com/jmfawcet/pupilprod_public"
+repository-code: "https://osf.io/9mqhd/"
+abstract: |
+  This dataset accompanies the paper:
+  Fawcett, J. M., Roberts, B. R. T., Willoughby, H., Tiller, J., Hourihan, K. L., & MacLeod, C. M.
+  "The Pupillometric Production Effect: Evidence for Enhanced Processing Preceding, During, and Following Production."
+  (in revision at Cognition; preprint available at SSRN: https://doi.org/10.2139/ssrn.5210001).
+  The dataset includes behavioral recognition memory data, pupillometric traces,
+  preprocessing scripts, and analysis code across four experiments.
+license: CC-BY-4.0
