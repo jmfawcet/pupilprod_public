@@ -59,7 +59,14 @@ A machine-readable citation file (`CITATION.cff`) is also included for GitHub in
 
 ## License
 
-The dataset is licensed under **CC BY 4.0**. You are free to use, share, and adapt the materials provided that you give appropriate credit by citing the paper above.
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
+The dataset is licensed under **CC BY-NC 4.0**. You are free to use, share, and adapt the materials provided that you give appropriate credit by citing the paper above.
 
 ---
 
