@@ -1,0 +1,303 @@
+4720.610 ********************************************************
+4720.674 ** Session beginning Thursday February 14, 2019 01:28:20 AM **
+4720.675 ** ExperimentBuilder Project : pp3014 **
+4720.676 ** ExperimentBuilder Version : 2.1.140 **
+4720.676 ** ExperimentBuilder Build   : Nov 10 2017 **
+4720.677 ********************************************************
+4720.679 TRACKER_TIME 0 401306.246
+5125.564 DISPLAY_SCREEN[1] DISPLAY_SCREEN[1] (BEGIN) 
+5139.606 DISPLAY_SCREEN[1] DISPLAY_SCREEN[1]
+810280.007 TRACKER_TIME 1 1206888.265
+810280.045 KEYBOARD[4] KEYBOARD[4]
+810280.226 SetValueAction 
+810280.260 SetValueAction 
+810593.667 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+810606.280 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+816608.316 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+816608.431 SetValueAction 
+816608.465 SetValueAction 
+816636.933 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+816656.275 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+822658.336 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+822658.459 SetValueAction 
+822658.505 SetValueAction 
+822687.072 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+822706.283 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+828708.311 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+828708.423 SetValueAction 
+828708.456 SetValueAction 
+828715.553 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+828722.943 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+834724.961 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+834725.076 SetValueAction 
+834725.110 SetValueAction 
+834732.079 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+834739.614 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+840741.610 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+840741.731 SetValueAction 
+840741.764 SetValueAction 
+840748.662 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+840756.264 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+846758.327 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+846758.444 SetValueAction 
+846758.478 SetValueAction 
+846765.544 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+846772.936 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+852774.972 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+852775.126 SetValueAction 
+852775.169 SetValueAction 
+852782.259 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+852789.600 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+858791.614 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+858791.727 SetValueAction 
+858791.761 SetValueAction 
+858798.834 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+858806.283 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+864808.325 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+864811.588 DISPLAY_SCREEN[3] DISPLAY_SCREEN[3] (BEGIN) 
+864822.932 DISPLAY_SCREEN[3] DISPLAY_SCREEN[3]
+992282.336 TRACKER_TIME 2 1388895.778
+992282.365 KEYBOARD[2] KEYBOARD[2]
+992572.394 DISPLAY_SCREEN[5] DISPLAY_SCREEN[5] (BEGIN) 
+992589.608 DISPLAY_SCREEN[5] DISPLAY_SCREEN[5]
+994459.066 KEYBOARD[6] KEYBOARD[6]
+1165665.087 TRACKER_TIME 3 1562283.460
+1165665.118 EL_CAMERA_SETUP[4] EL_CAMERA_SETUP[4]
+1165665.505 SetValueAction 
+1165665.558 SetValueAction 
+1165666.690 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+1165689.607 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+1165866.759 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+1166157.084 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+1166172.942 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+1167150.110 TIMER Practice_Phase.SEQUENCE.TIMER
+1167158.029 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+1167172.945 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+1167350.086 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+1167411.248 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1] (BEGIN) 
+1167422.937 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1]
+1167900.116 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+1167943.465 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+1167956.266 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+1171433.483 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+1171442.032 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1] (BEGIN) 
+1171456.269 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1]
+1172933.384 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+1172942.036 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+1172956.269 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+1173958.329 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+1174108.100 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+1174108.178 SetValueAction 
+1174108.211 SetValueAction 
+1174109.346 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+1174122.934 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+1174300.110 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+1174308.037 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+1174322.940 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+1175300.163 TIMER Practice_Phase.SEQUENCE.TIMER
+1175308.029 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+1175322.942 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+1175500.100 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+1175508.031 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1] (BEGIN) 
+1175522.938 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1]
+1176000.166 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+1176033.654 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+1176056.286 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+1179533.462 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+1179542.030 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1] (BEGIN) 
+1179556.266 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1]
+1181033.404 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+1181042.037 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+1181056.268 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+1182058.334 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+1182200.116 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+1182200.202 SetValueAction 
+1182200.235 SetValueAction 
+1182201.376 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+1182222.945 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+1182400.075 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+1182408.038 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+1182422.948 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+1183400.108 TIMER Practice_Phase.SEQUENCE.TIMER
+1183408.040 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+1183422.940 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+1183600.205 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+1183608.033 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1] (BEGIN) 
+1183622.936 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1]
+1184100.134 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+1184152.265 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+1184172.944 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+1187650.078 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+1187658.030 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1] (BEGIN) 
+1187672.948 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1]
+1189150.067 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+1189158.035 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+1189172.953 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+1190174.962 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+1190317.106 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+1190317.218 SetValueAction 
+1190317.266 SetValueAction 
+1190318.459 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+1190339.620 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+1190516.765 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+1190525.030 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+1190539.610 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+1191516.695 TIMER Practice_Phase.SEQUENCE.TIMER
+1191525.038 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+1191539.601 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+1191716.740 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+1191725.033 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1] (BEGIN) 
+1191739.602 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1]
+1192216.751 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+1192226.798 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+1192239.601 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+1195716.694 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+1195725.033 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1] (BEGIN) 
+1195739.598 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1]
+1197216.677 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+1197225.031 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+1197239.606 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+1198241.661 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+1198383.108 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+1198383.222 SetValueAction 
+1198383.258 SetValueAction 
+1198384.550 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+1198406.276 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+1198583.479 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+1198592.029 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+1198606.267 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+1199583.491 TIMER Practice_Phase.SEQUENCE.TIMER
+1199592.029 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+1199606.267 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+1199783.408 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+1199792.039 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1] (BEGIN) 
+1199806.264 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1]
+1200283.464 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+1200293.417 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+1200306.268 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+1203783.479 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+1203792.033 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1] (BEGIN) 
+1203806.276 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1]
+1205283.412 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+1205292.033 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+1205306.274 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+1206308.305 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+1206450.120 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+1206450.199 SetValueAction 
+1206450.232 SetValueAction 
+1206451.450 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+1206472.951 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+1206650.085 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+1206658.034 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+1206672.952 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+1207650.155 TIMER Practice_Phase.SEQUENCE.TIMER
+1207658.032 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+1207672.952 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+1207850.065 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+1207858.031 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1] (BEGIN) 
+1207872.950 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1]
+1208350.055 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+1208359.859 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+1208372.943 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+1211850.067 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+1211858.033 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1] (BEGIN) 
+1211872.940 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1]
+1213350.206 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+1213358.030 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+1213372.943 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+1214374.940 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+1214516.109 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+1214516.198 SetValueAction 
+1214516.231 SetValueAction 
+1214517.760 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+1214539.609 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+1214716.720 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+1214725.036 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+1214739.602 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+1215716.779 TIMER Practice_Phase.SEQUENCE.TIMER
+1215725.037 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+1215739.600 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+1215916.784 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+1215925.038 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1] (BEGIN) 
+1215939.599 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1]
+1216416.869 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+1216465.759 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+1216472.931 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+1219950.169 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+1219958.040 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1] (BEGIN) 
+1219972.940 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1]
+1221450.103 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+1221458.039 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+1221472.953 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+1222474.967 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+1222616.104 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+1222616.232 SetValueAction 
+1222616.268 SetValueAction 
+1222617.526 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+1222639.623 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+1222816.803 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+1222825.032 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+1222839.614 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+1223816.759 TIMER Practice_Phase.SEQUENCE.TIMER
+1223825.036 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+1223839.612 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+1224016.809 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+1224025.030 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1] (BEGIN) 
+1224039.615 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1]
+1224516.817 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+1224526.666 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+1224539.612 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+1228016.886 TRACKER_TIME 4 1624637.020
+1228016.911 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+1228025.040 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1] (BEGIN) 
+1228039.603 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1]
+1229516.701 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+1229525.035 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+1229539.602 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+1230541.612 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+1230683.099 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+1230683.203 SetValueAction 
+1230683.242 SetValueAction 
+1230684.489 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+1230706.275 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+1230883.382 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+1230892.035 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+1230906.267 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+1231883.382 TIMER Practice_Phase.SEQUENCE.TIMER
+1231892.030 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+1231906.270 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+1232083.385 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+1232092.036 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1] (BEGIN) 
+1232106.268 Luminance_Cue[1] Practice_Phase.SEQUENCE.Luminance_Cue[1]
+1232583.405 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+1232593.331 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+1232606.271 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+1236083.387 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+1236092.030 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1] (BEGIN) 
+1236106.284 Action_cue[1] Practice_Phase.SEQUENCE.Action_cue[1]
+1237583.376 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+1237592.042 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+1237606.278 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+1238608.298 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+1238750.107 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+1238753.719 DISPLAY_SCREEN[2] DISPLAY_SCREEN[2] (BEGIN) 
+1238772.958 DISPLAY_SCREEN[2] DISPLAY_SCREEN[2]
+1294521.644 TRACKER_TIME 5 1691143.677
+1294521.679 KEYBOARD[1] KEYBOARD[1]
+1294522.876 DISPLAY_SCREEN[6] DISPLAY_SCREEN[6] (BEGIN) 
+1294539.614 DISPLAY_SCREEN[6] DISPLAY_SCREEN[6]
+1296670.060 KEYBOARD[7] KEYBOARD[7]
+2011213.079 TRACKER_TIME 6 2407855.480
+2011213.111 EL_CAMERA_SETUP[5] EL_CAMERA_SETUP[5]
+2011213.466 SetValueAction 
+2011213.507 SetValueAction 
+2011213.540 SetValueAction 
+2011213.572 SetValueAction 
+2011314.987 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+2011322.932 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+2011500.064 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+2011508.034 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+2011522.939 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+2012500.088 TIMER Study_Phase.SEQUENCE.TIMER
+2012508.031 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+2012522.940 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen

@@ -1,0 +1,45 @@
+4834.267	DISPLAY_SCREEN[1]	LOADING RESOURCE SURFACE FROM DISK
+70513.822	Familiarization_Phase.SEQUENCE.Cue_and_Instruction	LOADING RESOURCE SURFACE FROM DISK
+70534.858	Familiarization_Phase.SEQUENCE.Cue_and_Instruction	LOADING RESOURCE SURFACE FROM DISK
+76612.094	Familiarization_Phase.SEQUENCE.Cue_and_Instruction	LOADING RESOURCE SURFACE FROM DISK
+76616.832	Familiarization_Phase.SEQUENCE.Cue_and_Instruction	LOADING RESOURCE SURFACE FROM DISK
+82652.071	Familiarization_Phase.SEQUENCE.Cue_and_Instruction	LOADING RESOURCE SURFACE FROM DISK
+82692.441	Familiarization_Phase.SEQUENCE.Cue_and_Instruction	LOADING RESOURCE SURFACE FROM DISK
+124855.071	DISPLAY_SCREEN[3]	LOADING RESOURCE SURFACE FROM DISK
+214335.064	DISPLAY_SCREEN[5]	LOADING RESOURCE SURFACE FROM DISK
+304509.708	Practice_Phase.SEQUENCE.Blink_Screen	LOADING RESOURCE SURFACE FROM DISK
+304510.752	Practice_Phase.SEQUENCE.Blink_Screen	flip time is later than desired time. Desired Time=304498 Flip Time=304531 Retrace Rate=16.641, prepareTime=36 flip request time 304510
+305750.612	Practice_Phase.SEQUENCE.Practice_Luminance_Cue	LOADING RESOURCE SURFACE FROM DISK
+305768.742	Practice_Phase.SEQUENCE.Practice_Luminance_Cue	LOADING RESOURCE SURFACE FROM DISK
+305770.165	Practice_Phase.SEQUENCE.Practice_Luminance_Cue	flip time is later than desired time. Desired Time=305731 Flip Time=305781 Retrace Rate=16.641, prepareTime=62 flip request time 305769
+306303.308	Practice_Phase.SEQUENCE.DISPLAY_SCREEN	LOADING RESOURCE SURFACE FROM DISK
+306305.184	Practice_Phase.SEQUENCE.DISPLAY_SCREEN	flip time is later than desired time. Desired Time=306281 Flip Time=306314 Retrace Rate=16.641, prepareTime=47 flip request time 306304
+307828.721	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+307830.054	Practice_Phase.SEQUENCE.Practice_Instruction	flip time is later than desired time. Desired Time=307814 Flip Time=307848 Retrace Rate=16.641, prepareTime=39 flip request time 307829
+314480.379	Practice_Phase.SEQUENCE.DISPLAY_SCREEN	LOADING RESOURCE SURFACE FROM DISK
+314482.22	Practice_Phase.SEQUENCE.DISPLAY_SCREEN	flip time is later than desired time. Desired Time=314414 Flip Time=314498 Retrace Rate=16.641, prepareTime=91 flip request time 314482
+316050.639	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+316051.955	Practice_Phase.SEQUENCE.Practice_Instruction	flip time is later than desired time. Desired Time=315998 Flip Time=316064 Retrace Rate=16.641, prepareTime=78 flip request time 316051
+322649.655	Practice_Phase.SEQUENCE.DISPLAY_SCREEN	LOADING RESOURCE SURFACE FROM DISK
+322651.398	Practice_Phase.SEQUENCE.DISPLAY_SCREEN	flip time is later than desired time. Desired Time=322631 Flip Time=322664 Retrace Rate=16.641, prepareTime=44 flip request time 322651
+324205.91	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+324207.324	Practice_Phase.SEQUENCE.Practice_Instruction	flip time is later than desired time. Desired Time=324164 Flip Time=324231 Retrace Rate=16.641, prepareTime=66 flip request time 324207
+330779.392	Practice_Phase.SEQUENCE.DISPLAY_SCREEN	LOADING RESOURCE SURFACE FROM DISK
+332276.578	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+338845.919	Practice_Phase.SEQUENCE.DISPLAY_SCREEN	LOADING RESOURCE SURFACE FROM DISK
+340377.56	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+340378.859	Practice_Phase.SEQUENCE.Practice_Instruction	flip time is later than desired time. Desired Time=340364 Flip Time=340398 Retrace Rate=16.641, prepareTime=38 flip request time 340378
+346946.209	Practice_Phase.SEQUENCE.DISPLAY_SCREEN	LOADING RESOURCE SURFACE FROM DISK
+348485.607	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+348486.948	Practice_Phase.SEQUENCE.Practice_Instruction	flip time is later than desired time. Desired Time=348465 Flip Time=348498 Retrace Rate=16.641, prepareTime=46 flip request time 348486
+355046.054	Practice_Phase.SEQUENCE.DISPLAY_SCREEN	LOADING RESOURCE SURFACE FROM DISK
+356578.165	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+356579.469	Practice_Phase.SEQUENCE.Practice_Instruction	flip time is later than desired time. Desired Time=356565 Flip Time=356598 Retrace Rate=16.641, prepareTime=38 flip request time 356579
+363146.001	Practice_Phase.SEQUENCE.DISPLAY_SCREEN	LOADING RESOURCE SURFACE FROM DISK
+364682.608	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+364683.968	Practice_Phase.SEQUENCE.Practice_Instruction	flip time is later than desired time. Desired Time=364664 Flip Time=364698 Retrace Rate=16.641, prepareTime=43 flip request time 364683
+371246.03	Practice_Phase.SEQUENCE.DISPLAY_SCREEN	LOADING RESOURCE SURFACE FROM DISK
+372782.348	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+372783.651	Practice_Phase.SEQUENCE.Practice_Instruction	flip time is later than desired time. Desired Time=372764 Flip Time=372798 Retrace Rate=16.641, prepareTime=43 flip request time 372783
+377458.321	DISPLAY_SCREEN[2]	LOADING RESOURCE SURFACE FROM DISK
+907442.179	Study_Phase.SEQUENCE.Blink_Screen	ERROR: EXPERIMENT TERMINATED BY HOST

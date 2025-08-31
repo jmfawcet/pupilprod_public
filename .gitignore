@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+.DS_Store
+do_not_push
+*.edf
+*.tiff
+pupil_plots

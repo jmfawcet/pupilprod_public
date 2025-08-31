@@ -1,0 +1,20 @@
+4892.466 ********************************************************
+4892.536 ** Session beginning Friday November 08, 2019 10:47:14 AM **
+4892.537 ** ExperimentBuilder Project : pp0070 **
+4892.538 ** ExperimentBuilder Version : 2.1.140 **
+4892.539 ** ExperimentBuilder Build   : Nov 10 2017 **
+4892.539 ********************************************************
+4892.541 TRACKER_TIME 0 667747.926
+5323.993 DISPLAY_SCREEN[1] DISPLAY_SCREEN[1] (BEGIN) 
+5338.692 DISPLAY_SCREEN[1] DISPLAY_SCREEN[1]
+63045.814 KEYBOARD[4] KEYBOARD[4]
+63046.077 SetValueAction 
+63046.116 SetValueAction 
+63119.657 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+63138.696 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+69140.746 TRACKER_TIME 1 731997.908
+69140.784 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+69140.897 SetValueAction 
+69140.930 SetValueAction 
+69169.596 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+69188.694 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction

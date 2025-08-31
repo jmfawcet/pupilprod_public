@@ -1,0 +1,39 @@
+5124.632	DISPLAY_SCREEN[1]	LOADING RESOURCE SURFACE FROM DISK
+810579.652	Familiarization_Phase.SEQUENCE.Cue_and_Instruction	LOADING RESOURCE SURFACE FROM DISK
+810589.67	Familiarization_Phase.SEQUENCE.Cue_and_Instruction	LOADING RESOURCE SURFACE FROM DISK
+816628.265	Familiarization_Phase.SEQUENCE.Cue_and_Instruction	LOADING RESOURCE SURFACE FROM DISK
+816632.867	Familiarization_Phase.SEQUENCE.Cue_and_Instruction	LOADING RESOURCE SURFACE FROM DISK
+822678.408	Familiarization_Phase.SEQUENCE.Cue_and_Instruction	LOADING RESOURCE SURFACE FROM DISK
+822682.968	Familiarization_Phase.SEQUENCE.Cue_and_Instruction	LOADING RESOURCE SURFACE FROM DISK
+864810.701	DISPLAY_SCREEN[3]	LOADING RESOURCE SURFACE FROM DISK
+992571.475	DISPLAY_SCREEN[5]	LOADING RESOURCE SURFACE FROM DISK
+1166156.201	Practice_Phase.SEQUENCE.Blink_Screen	LOADING RESOURCE SURFACE FROM DISK
+1166157.319	Practice_Phase.SEQUENCE.Blink_Screen	flip time is later than desired time. Desired Time=1165891 Flip Time=1166174 Retrace Rate=16.638, prepareTime=290 flip request time 1166157
+1167399.055	Practice_Phase.SEQUENCE.Luminance_Cue[1]	LOADING RESOURCE SURFACE FROM DISK
+1167409.903	Practice_Phase.SEQUENCE.Luminance_Cue[1]	LOADING RESOURCE SURFACE FROM DISK
+1167411.458	Practice_Phase.SEQUENCE.Luminance_Cue[1]	flip time is later than desired time. Desired Time=1167374 Flip Time=1167424 Retrace Rate=16.638, prepareTime=60 flip request time 1167411
+1167939.636	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1167942.146	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1167943.681	Practice_Phase.SEQUENCE.Practice_Instruction	flip time is later than desired time. Desired Time=1167924 Flip Time=1167958 Retrace Rate=16.638, prepareTime=43 flip request time 1167943
+1171439.963	Practice_Phase.SEQUENCE.Action_cue[1]	LOADING RESOURCE SURFACE FROM DISK
+1176020.35	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1176032.268	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1176033.895	Practice_Phase.SEQUENCE.Practice_Instruction	flip time is later than desired time. Desired Time=1176024 Flip Time=1176058 Retrace Rate=16.638, prepareTime=33 flip request time 1176033
+1184148.149	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1184150.761	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1184152.508	Practice_Phase.SEQUENCE.Practice_Instruction	flip time is later than desired time. Desired Time=1184124 Flip Time=1184174 Retrace Rate=16.638, prepareTime=51 flip request time 1184152
+1192222.518	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1192225.25	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1200289.216	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1200292.014	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1208355.954	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1208358.537	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1216422.785	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1216464.425	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1216465.974	Practice_Phase.SEQUENCE.Practice_Instruction	flip time is later than desired time. Desired Time=1216441 Flip Time=1216474 Retrace Rate=16.638, prepareTime=48 flip request time 1216465
+1224522.549	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1224525.316	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1232589.379	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1232592.021	Practice_Phase.SEQUENCE.Practice_Instruction	LOADING RESOURCE SURFACE FROM DISK
+1238752.745	DISPLAY_SCREEN[2]	LOADING RESOURCE SURFACE FROM DISK
+2014840.168	Study_Phase.SEQUENCE.Blank_Screen	ERROR: EXPERIMENT TERMINATED BY HOST

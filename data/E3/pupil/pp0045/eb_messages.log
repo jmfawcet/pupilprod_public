@@ -1,0 +1,2862 @@
+4598.759 ********************************************************
+4598.821 ** Session beginning Thursday November 29, 2018 10:13:04 AM **
+4598.823 ** ExperimentBuilder Project : pp0045 **
+4598.824 ** ExperimentBuilder Version : 2.1.140 **
+4598.825 ** ExperimentBuilder Build   : Nov 10 2017 **
+4598.825 ********************************************************
+4598.830 TRACKER_TIME 0 151937.752
+5013.749 DISPLAY_SCREEN[1] DISPLAY_SCREEN[1] (BEGIN) 
+5026.205 DISPLAY_SCREEN[1] DISPLAY_SCREEN[1]
+55513.320 KEYBOARD[4] KEYBOARD[4]
+55513.580 SetValueAction 
+55513.617 SetValueAction 
+55562.166 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+55576.185 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+61578.179 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+61578.312 SetValueAction 
+61578.347 SetValueAction 
+61633.223 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+61642.858 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+67644.887 TRACKER_TIME 1 214985.535
+67644.921 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+67645.092 SetValueAction 
+67645.129 SetValueAction 
+67764.088 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+67776.186 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+73778.185 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+73778.309 SetValueAction 
+73778.345 SetValueAction 
+73785.847 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+73792.853 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+79794.884 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+79795.008 SetValueAction 
+79795.044 SetValueAction 
+79802.669 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+79809.514 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+85811.527 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+85811.643 SetValueAction 
+85811.678 SetValueAction 
+85819.079 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+85826.187 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+91828.201 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+91828.316 SetValueAction 
+91828.366 SetValueAction 
+91835.809 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+91842.855 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+97844.843 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+97844.957 SetValueAction 
+97844.991 SetValueAction 
+97852.226 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+97859.519 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+103861.553 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+103861.672 SetValueAction 
+103861.706 SetValueAction 
+103869.035 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction (BEGIN) 
+103876.192 Cue_and_Instruction Familiarization_Phase.SEQUENCE.Cue_and_Instruction
+109878.250 TIMER[1] Familiarization_Phase.SEQUENCE.TIMER[1]
+110156.761 DISPLAY_SCREEN[3] DISPLAY_SCREEN[3] (BEGIN) 
+110176.181 DISPLAY_SCREEN[3] DISPLAY_SCREEN[3]
+215168.274 TRACKER_TIME 2 362513.156
+215168.309 KEYBOARD[2] KEYBOARD[2]
+215180.402 DISPLAY_SCREEN[5] DISPLAY_SCREEN[5] (BEGIN) 
+215192.858 DISPLAY_SCREEN[5] DISPLAY_SCREEN[5]
+215960.070 KEYBOARD[6] KEYBOARD[6]
+262218.081 EL_CAMERA_SETUP[4] EL_CAMERA_SETUP[4]
+262218.430 SetValueAction 
+262218.488 SetValueAction 
+262218.523 SetValueAction 
+262218.568 SetValueAction 
+262219.751 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+262226.181 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+262403.331 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+262689.874 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+262709.519 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+263686.595 TIMER Practice_Phase.SEQUENCE.TIMER
+263695.030 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+263709.513 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+263886.670 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+263938.045 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue (BEGIN) 
+263959.520 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue
+264436.698 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+264450.943 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+264459.511 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN
+265936.643 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+265975.800 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+265992.854 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+269469.928 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+269478.037 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+269492.849 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+270494.837 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+270645.100 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+270645.178 SetValueAction 
+270645.224 SetValueAction 
+270645.256 SetValueAction 
+270645.287 SetValueAction 
+270646.510 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+270659.507 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+270836.640 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+270845.032 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+270859.509 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+271836.753 TIMER Practice_Phase.SEQUENCE.TIMER
+271845.030 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+271859.507 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+272036.663 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+272045.037 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue (BEGIN) 
+272059.505 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue
+272536.638 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+272545.035 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+272559.513 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN
+274036.606 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+274097.813 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+274109.515 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+277586.712 TRACKER_TIME 3 424933.398
+277586.741 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+277595.042 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+277609.515 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+278611.501 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+278755.103 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+278755.191 SetValueAction 
+278755.226 SetValueAction 
+278755.258 SetValueAction 
+278755.289 SetValueAction 
+278756.617 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+278776.181 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+278953.257 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+278962.031 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+278976.174 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+279953.307 TIMER Practice_Phase.SEQUENCE.TIMER
+279962.031 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+279976.190 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+280153.279 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+280162.038 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue (BEGIN) 
+280176.194 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue
+280653.333 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+280697.384 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+280709.525 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN
+282186.726 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+282230.722 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+282242.863 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+285719.962 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+285728.041 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+285742.847 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+286744.908 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+286887.101 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+286887.178 SetValueAction 
+286887.221 SetValueAction 
+286887.253 SetValueAction 
+286887.284 SetValueAction 
+286888.588 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+286909.522 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+287086.637 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+287095.033 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+287109.510 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+288086.752 TIMER Practice_Phase.SEQUENCE.TIMER
+288095.035 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+288109.516 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+288286.590 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+288295.039 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue (BEGIN) 
+288309.514 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue
+288786.723 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+288795.026 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+288809.516 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN
+290286.666 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+290295.045 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+290309.514 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+293786.706 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+293795.040 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+293809.516 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+294811.528 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+294955.112 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+294955.198 SetValueAction 
+294955.241 SetValueAction 
+294955.273 SetValueAction 
+294955.305 SetValueAction 
+294956.740 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+294976.180 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+295153.275 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+295162.031 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+295176.175 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+296153.271 TIMER Practice_Phase.SEQUENCE.TIMER
+296162.031 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+296176.176 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+296353.298 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+296362.037 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue (BEGIN) 
+296376.176 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue
+296853.370 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+296862.028 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+296876.185 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN
+298353.400 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+298391.306 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+298409.519 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+301886.594 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+301895.037 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+301909.526 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+302911.536 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+303054.101 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+303054.178 SetValueAction 
+303054.222 SetValueAction 
+303054.254 SetValueAction 
+303054.285 SetValueAction 
+303055.544 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+303076.200 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+303253.381 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+303262.031 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+303276.193 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+304253.451 TIMER Practice_Phase.SEQUENCE.TIMER
+304262.031 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+304276.192 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+304453.380 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+304462.037 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue (BEGIN) 
+304476.190 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue
+304953.281 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+304962.026 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+304976.181 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN
+306453.436 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+306499.381 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+306509.510 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+309986.627 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+309995.040 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+310009.518 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+311011.523 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+311154.100 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+311154.178 SetValueAction 
+311154.220 SetValueAction 
+311154.252 SetValueAction 
+311154.283 SetValueAction 
+311155.481 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+311176.183 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+311353.265 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+311362.032 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+311376.174 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+312353.380 TIMER Practice_Phase.SEQUENCE.TIMER
+312362.030 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+312376.175 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+312553.283 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+312562.035 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue (BEGIN) 
+312576.176 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue
+313053.362 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+313062.029 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+313076.183 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN
+314553.322 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+314591.755 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+314609.521 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+318086.582 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+318095.036 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+318109.515 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+319111.507 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+319253.105 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+319253.190 SetValueAction 
+319253.226 SetValueAction 
+319253.263 SetValueAction 
+319253.299 SetValueAction 
+319254.676 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+319276.185 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+319453.350 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+319462.032 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+319476.172 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+320453.337 TIMER Practice_Phase.SEQUENCE.TIMER
+320462.034 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+320476.194 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+320653.299 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+320662.033 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue (BEGIN) 
+320676.191 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue
+321153.391 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+321162.026 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+321176.199 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN
+322653.449 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+322696.206 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+322709.526 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+326186.730 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+326195.041 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+326209.521 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+327211.562 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+327354.104 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+327354.189 SetValueAction 
+327354.229 SetValueAction 
+327354.263 SetValueAction 
+327354.295 SetValueAction 
+327355.613 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen (BEGIN) 
+327376.185 Blanks_Screen Practice_Phase.SEQUENCE.Blanks_Screen
+327553.444 TIMER[6] Practice_Phase.SEQUENCE.TIMER[6]
+327562.031 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+327576.180 Blink_Screen Practice_Phase.SEQUENCE.Blink_Screen
+328553.372 TIMER Practice_Phase.SEQUENCE.TIMER
+328562.032 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+328576.176 Blank_Screen Practice_Phase.SEQUENCE.Blank_Screen
+328753.248 TIMER[1] Practice_Phase.SEQUENCE.TIMER[1]
+328762.033 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue (BEGIN) 
+328776.180 Practice_Luminance_Cue Practice_Phase.SEQUENCE.Practice_Luminance_Cue
+329253.383 TIMER[2] Practice_Phase.SEQUENCE.TIMER[2]
+329262.029 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+329276.177 DISPLAY_SCREEN Practice_Phase.SEQUENCE.DISPLAY_SCREEN
+330753.421 TIMER[3] Practice_Phase.SEQUENCE.TIMER[3]
+330762.031 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction (BEGIN) 
+330776.183 Practice_Instruction Practice_Phase.SEQUENCE.Practice_Instruction
+334253.278 TIMER[5] Practice_Phase.SEQUENCE.TIMER[5]
+334262.039 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue (BEGIN) 
+334276.181 Luminance_Cue Practice_Phase.SEQUENCE.Luminance_Cue
+335278.215 TIMER[4] Practice_Phase.SEQUENCE.TIMER[4]
+335420.099 PREPARE_SEQUENCE Practice_Phase.PREPARE_SEQUENCE
+335438.144 DISPLAY_SCREEN[2] DISPLAY_SCREEN[2] (BEGIN) 
+335459.527 DISPLAY_SCREEN[2] DISPLAY_SCREEN[2]
+372645.308 TRACKER_TIME 4 519994.741
+372645.342 KEYBOARD[1] KEYBOARD[1]
+372646.538 DISPLAY_SCREEN[6] DISPLAY_SCREEN[6] (BEGIN) 
+372659.527 DISPLAY_SCREEN[6] DISPLAY_SCREEN[6]
+373235.681 KEYBOARD[7] KEYBOARD[7]
+435964.089 TRACKER_TIME 5 583315.320
+435964.118 EL_CAMERA_SETUP[5] EL_CAMERA_SETUP[5]
+435964.555 SetValueAction 
+435964.593 SetValueAction 
+435964.633 SetValueAction 
+435964.666 SetValueAction 
+435964.739 SetValueAction 
+435964.774 SetValueAction 
+436068.979 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+436076.188 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+436253.375 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+436262.026 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+436276.187 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+437253.335 TIMER Study_Phase.SEQUENCE.TIMER
+437262.027 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+437276.190 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+437478.242 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+437478.521 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+437481.237 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+437492.854 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+437994.864 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+437995.209 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+438002.724 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+438009.528 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+439511.598 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+439511.872 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+439512.062 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+439558.317 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+439576.194 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+443053.317 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+443062.029 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+443076.191 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+444078.232 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+444078.631 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+444269.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+444269.177 SetValueAction 
+444269.208 SetValueAction 
+444269.243 SetValueAction 
+444269.274 SetValueAction 
+444269.305 SetValueAction 
+444269.336 SetValueAction 
+444373.005 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+444392.864 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+444570.046 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+444578.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+444592.854 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+445570.007 TIMER Study_Phase.SEQUENCE.TIMER
+445578.046 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+445592.848 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+445794.868 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+445795.137 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+445796.008 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+445809.509 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+446311.504 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+446311.755 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+446319.261 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+446326.184 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+447828.195 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+447828.483 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+447828.674 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+447872.207 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+447892.849 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+451369.977 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+451378.033 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+451392.848 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+452394.906 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+452395.300 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+452586.103 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+452586.179 SetValueAction 
+452586.219 SetValueAction 
+452586.255 SetValueAction 
+452586.286 SetValueAction 
+452586.317 SetValueAction 
+452586.349 SetValueAction 
+452688.958 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+452709.519 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+452886.660 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+452895.023 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+452909.510 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+453886.617 TIMER Study_Phase.SEQUENCE.TIMER
+453895.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+453909.506 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+454111.578 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+454111.888 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+454112.794 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+454126.178 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+454628.172 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+454628.422 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+454630.597 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+454642.840 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+456144.947 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+456145.229 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+456145.438 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+456209.663 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+456226.184 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+459703.279 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+459712.029 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+459726.182 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+460728.226 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+460728.608 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+460922.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+460922.174 SetValueAction 
+460922.205 SetValueAction 
+460922.245 SetValueAction 
+460922.277 SetValueAction 
+460922.308 SetValueAction 
+460922.338 SetValueAction 
+461026.063 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+461042.852 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+461219.996 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+461228.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+461242.839 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+462219.929 TIMER Study_Phase.SEQUENCE.TIMER
+462228.025 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+462242.846 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+462444.896 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+462445.160 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+462446.109 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+462459.512 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+462961.544 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+462961.795 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+462969.196 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+462976.172 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+464478.262 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+464478.540 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+464478.725 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+464518.481 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+464526.179 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+468003.285 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+468012.035 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+468026.182 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+469028.254 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+469028.646 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+469219.098 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+469219.173 SetValueAction 
+469219.204 SetValueAction 
+469219.240 SetValueAction 
+469219.272 SetValueAction 
+469219.303 SetValueAction 
+469219.333 SetValueAction 
+469322.946 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+469342.853 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+469519.939 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+469528.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+469542.852 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+470519.945 TIMER Study_Phase.SEQUENCE.TIMER
+470528.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+470542.843 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+470744.866 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+470745.131 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+470746.043 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+470759.507 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+471261.559 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+471261.848 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+471262.807 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+471276.183 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+472778.201 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+472778.511 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+472778.759 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+472782.172 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+472792.844 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+476270.062 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+476278.026 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+476292.847 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+477294.881 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+477295.274 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+477485.101 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+477485.176 SetValueAction 
+477485.216 SetValueAction 
+477485.252 SetValueAction 
+477485.284 SetValueAction 
+477485.314 SetValueAction 
+477485.345 SetValueAction 
+477592.996 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+477609.515 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+477786.592 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+477795.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+477809.506 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+478786.698 TIMER Study_Phase.SEQUENCE.TIMER
+478795.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+478809.511 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+479011.541 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+479011.810 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+479012.733 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+479026.178 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+479528.198 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+479528.471 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+479530.682 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+479542.850 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+481044.858 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+481045.135 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+481045.370 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+481088.144 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+481109.519 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+484586.639 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+484595.034 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+484609.516 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+485611.543 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+485611.970 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+485801.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+485801.173 SetValueAction 
+485801.214 SetValueAction 
+485801.249 SetValueAction 
+485801.281 SetValueAction 
+485801.311 SetValueAction 
+485801.350 SetValueAction 
+485902.963 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+485909.513 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+486086.684 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+486095.023 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+486109.505 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+487086.634 TIMER Study_Phase.SEQUENCE.TIMER
+487095.026 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+487109.510 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+487311.555 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+487311.820 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+487312.734 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+487326.179 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+487828.172 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+487828.453 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+487835.836 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+487842.847 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+489344.885 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+489345.234 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+489345.475 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+489391.857 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+489409.518 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+492886.613 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+492895.031 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+492909.516 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+493911.535 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+493911.914 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+494102.105 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+494102.181 SetValueAction 
+494102.238 SetValueAction 
+494102.283 SetValueAction 
+494102.318 SetValueAction 
+494102.352 SetValueAction 
+494102.413 SetValueAction 
+494203.973 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+494226.181 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+494403.307 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+494412.026 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+494426.174 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+495403.259 TIMER Study_Phase.SEQUENCE.TIMER
+495412.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+495426.177 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+495628.172 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+495628.492 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+495629.420 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+495642.845 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+496144.839 TRACKER_TIME 6 643497.879
+496144.869 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+496145.114 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+496146.042 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+496159.513 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+497661.509 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+497661.783 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+497661.979 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+497703.554 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+497709.513 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+501203.305 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+501212.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+501226.180 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+502228.263 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+502228.654 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+502418.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+502418.177 SetValueAction 
+502418.209 SetValueAction 
+502418.250 SetValueAction 
+502418.281 SetValueAction 
+502418.312 SetValueAction 
+502418.343 SetValueAction 
+502523.992 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+502542.853 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+502719.973 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+502728.026 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+502742.844 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+503720.031 TIMER Study_Phase.SEQUENCE.TIMER
+503728.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+503742.843 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+503944.866 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+503945.174 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+503946.079 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+503959.511 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+504461.510 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+504461.810 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+504462.724 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+504476.171 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+505978.186 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+505978.453 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+505978.635 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+506019.111 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+506026.169 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+509503.362 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+509512.028 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+509526.183 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+510528.198 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+510528.593 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+510719.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+510719.183 SetValueAction 
+510719.224 SetValueAction 
+510719.260 SetValueAction 
+510719.292 SetValueAction 
+510719.323 SetValueAction 
+510719.363 SetValueAction 
+510823.028 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+510842.853 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+511019.930 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+511028.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+511042.841 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+512019.980 TIMER Study_Phase.SEQUENCE.TIMER
+512028.026 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+512042.845 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+512244.911 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+512245.178 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+512246.106 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+512259.510 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+512761.536 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+512761.794 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+512769.148 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+512776.178 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+514278.241 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+514278.522 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+514278.721 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+514317.474 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+514326.179 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+517803.397 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+517812.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+517826.176 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+518828.232 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+518828.664 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+519018.101 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+519018.176 SetValueAction 
+519018.239 SetValueAction 
+519018.285 SetValueAction 
+519018.318 SetValueAction 
+519018.354 SetValueAction 
+519018.415 SetValueAction 
+519119.984 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+519142.852 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+519319.961 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+519328.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+519342.841 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+520319.917 TIMER Study_Phase.SEQUENCE.TIMER
+520328.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+520342.847 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+520544.911 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+520545.237 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+520546.146 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+520559.512 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+521061.539 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+521061.793 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+521063.949 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+521076.179 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+522578.344 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+522578.632 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+522578.833 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+522619.084 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+522626.173 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+526103.328 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+526112.029 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+526126.182 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+527128.256 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+527128.636 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+527319.108 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+527319.187 SetValueAction 
+527319.222 SetValueAction 
+527319.275 SetValueAction 
+527319.306 SetValueAction 
+527319.337 SetValueAction 
+527319.373 SetValueAction 
+527423.997 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+527442.848 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+527620.044 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+527628.028 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+527642.845 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+528620.053 TIMER Study_Phase.SEQUENCE.TIMER
+528628.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+528642.845 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+528844.910 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+528845.175 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+528846.086 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+528859.512 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+529361.576 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+529361.829 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+529369.155 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+529376.180 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+530878.282 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+530878.566 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+530878.765 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+530915.499 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+530926.183 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+534403.370 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+534412.034 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+534426.183 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+535428.182 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+535428.578 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+535620.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+535620.185 SetValueAction 
+535620.217 SetValueAction 
+535620.253 SetValueAction 
+535620.284 SetValueAction 
+535620.315 SetValueAction 
+535620.346 SetValueAction 
+535725.999 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+535742.854 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+535920.044 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+535928.023 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+535942.845 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+536920.033 TIMER Study_Phase.SEQUENCE.TIMER
+536928.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+536942.846 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+537144.874 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+537145.136 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+537146.066 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+537159.513 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+537661.539 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+537661.791 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+537663.959 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+537676.178 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+539178.185 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+539178.502 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+539178.693 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+539221.745 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+539242.852 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+542720.023 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+542728.028 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+542742.852 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+543744.901 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+543745.348 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+543934.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+543934.174 SetValueAction 
+543934.214 SetValueAction 
+543934.255 SetValueAction 
+543934.287 SetValueAction 
+543934.318 SetValueAction 
+543934.348 SetValueAction 
+544040.932 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+544059.519 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+544236.706 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+544245.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+544259.506 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+545236.638 TIMER Study_Phase.SEQUENCE.TIMER
+545245.025 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+545259.513 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+545461.577 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+545461.846 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+545462.768 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+545476.173 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+545978.223 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+545978.475 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+545985.748 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+545992.842 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+547494.921 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+547495.197 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+547495.434 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+547539.212 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+547559.520 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+551036.676 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+551045.030 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+551059.515 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+552061.594 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+552061.985 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+552253.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+552253.178 SetValueAction 
+552253.213 SetValueAction 
+552253.255 SetValueAction 
+552253.287 SetValueAction 
+552253.318 SetValueAction 
+552253.350 SetValueAction 
+552355.964 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+552376.180 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+552553.331 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+552562.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+552576.176 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+553553.336 TIMER Study_Phase.SEQUENCE.TIMER
+553562.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+553576.173 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+553778.237 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+553778.510 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+553779.409 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+553792.845 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+554294.848 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+554295.178 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+554302.461 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+554309.508 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+555811.579 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+555811.855 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+555812.053 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+555858.024 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+555876.189 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+559353.358 TRACKER_TIME 7 706708.239
+559353.393 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+559362.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+559376.181 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+560378.234 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+560378.607 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+560569.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+560569.172 SetValueAction 
+560569.203 SetValueAction 
+560569.239 SetValueAction 
+560569.271 SetValueAction 
+560569.302 SetValueAction 
+560569.332 SetValueAction 
+560676.943 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+560692.849 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+560869.921 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+560878.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+560892.844 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+561870.037 TIMER Study_Phase.SEQUENCE.TIMER
+561878.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+561892.847 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+562094.834 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+562095.100 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+562095.993 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+562109.512 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+562611.524 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+562611.777 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+562613.979 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+562626.179 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+564128.250 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+564128.536 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+564128.734 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+564169.645 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+564176.171 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+567653.335 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+567662.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+567676.181 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+568678.273 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+568678.669 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+568869.101 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+568869.179 SetValueAction 
+568869.210 SetValueAction 
+568869.245 SetValueAction 
+568869.277 SetValueAction 
+568869.307 SetValueAction 
+568869.338 SetValueAction 
+568973.942 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+568992.849 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+569169.958 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+569178.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+569192.851 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+570169.957 TIMER Study_Phase.SEQUENCE.TIMER
+570178.025 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+570192.844 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+570394.845 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+570395.110 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+570396.038 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+570409.512 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+570911.506 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+570911.758 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+570912.703 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+570926.186 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+572428.367 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+572428.673 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+572428.868 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+572470.013 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+572476.171 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+575953.338 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+575962.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+575976.175 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+576978.258 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+576978.640 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+577171.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+577171.179 SetValueAction 
+577171.225 SetValueAction 
+577171.262 SetValueAction 
+577171.294 SetValueAction 
+577171.324 SetValueAction 
+577171.363 SetValueAction 
+577274.998 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+577292.854 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+577469.942 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+577478.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+577492.845 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+578469.959 TIMER Study_Phase.SEQUENCE.TIMER
+578478.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+578492.843 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+578694.863 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+578695.130 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+578696.025 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+578709.512 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+579211.575 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+579211.896 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+579212.874 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+579226.180 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+580728.179 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+580728.565 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+580728.770 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+580770.794 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+580792.849 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+584269.934 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+584278.029 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+584292.845 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+585294.869 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+585295.259 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+585486.101 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+585486.179 SetValueAction 
+585486.218 SetValueAction 
+585486.254 SetValueAction 
+585486.285 SetValueAction 
+585486.321 SetValueAction 
+585486.352 SetValueAction 
+585589.971 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+585609.517 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+585786.621 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+585795.029 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+585809.511 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+586786.660 TIMER Study_Phase.SEQUENCE.TIMER
+586795.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+586809.507 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+587011.571 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+587011.841 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+587012.759 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+587026.172 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+587528.343 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+587528.597 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+587535.814 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+587542.849 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+589044.920 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+589045.187 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+589045.369 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+589089.692 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+589109.521 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+592586.630 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+592595.033 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+592609.517 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+593611.509 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+593611.930 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+593802.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+593802.178 SetValueAction 
+593802.210 SetValueAction 
+593802.250 SetValueAction 
+593802.281 SetValueAction 
+593802.311 SetValueAction 
+593802.341 SetValueAction 
+593905.982 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+593926.186 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+594103.365 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+594112.023 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+594126.178 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+595103.282 TIMER Study_Phase.SEQUENCE.TIMER
+595112.031 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+595126.172 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+595328.181 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+595328.466 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+595329.439 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+595342.845 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+595844.893 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+595845.145 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+595852.524 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+595859.503 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+597361.549 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+597361.821 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+597362.008 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+597405.637 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+597426.181 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+600903.270 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+600912.027 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+600926.190 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+601928.212 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+601928.663 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+602120.101 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+602120.177 SetValueAction 
+602120.264 SetValueAction 
+602120.302 SetValueAction 
+602120.334 SetValueAction 
+602120.398 SetValueAction 
+602120.438 SetValueAction 
+602223.951 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+602242.852 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+602420.093 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+602428.023 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+602442.851 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+603419.945 TIMER Study_Phase.SEQUENCE.TIMER
+603428.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+603442.842 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+603644.849 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+603645.159 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+603646.073 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+603659.511 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+604161.567 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+604161.839 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+604164.068 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+604176.174 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+605678.290 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+605678.580 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+605678.774 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+605715.344 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+605726.187 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+609203.357 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+609212.034 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+609226.179 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+610228.239 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+610228.633 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+610419.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+610419.180 SetValueAction 
+610419.221 SetValueAction 
+610419.257 SetValueAction 
+610419.289 SetValueAction 
+610419.320 SetValueAction 
+610419.359 SetValueAction 
+610521.045 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+610542.847 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+610719.950 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+610728.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+610742.851 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+611719.947 TIMER Study_Phase.SEQUENCE.TIMER
+611728.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+611742.839 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+611944.874 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+611945.144 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+611946.033 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+611959.505 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+612461.584 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+612461.837 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+612469.046 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+612476.170 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+613978.283 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+613978.564 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+613978.774 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+614025.646 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+614042.849 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+617520.054 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+617528.033 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+617542.852 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+618544.838 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+618545.232 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+618735.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+618735.173 SetValueAction 
+618735.205 SetValueAction 
+618735.289 SetValueAction 
+618735.322 SetValueAction 
+618735.372 SetValueAction 
+618735.420 SetValueAction 
+618836.985 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+618859.520 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+619036.649 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+619045.026 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+619059.510 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+620036.692 TRACKER_TIME 8 767393.346
+620036.725 TIMER Study_Phase.SEQUENCE.TIMER
+620045.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+620059.509 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+620261.527 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+620261.792 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+620262.696 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+620276.180 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+620778.224 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+620778.483 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+620779.449 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+620792.842 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+622294.861 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+622295.209 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+622295.449 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+622337.534 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+622359.517 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+625836.788 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+625845.028 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+625859.515 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+626861.507 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+626861.887 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+627053.105 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+627053.185 SetValueAction 
+627053.231 SetValueAction 
+627053.268 SetValueAction 
+627053.300 SetValueAction 
+627053.331 SetValueAction 
+627053.370 SetValueAction 
+627161.036 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+627176.183 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+627353.330 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+627362.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+627376.172 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+628353.305 TIMER Study_Phase.SEQUENCE.TIMER
+628362.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+628376.177 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+628578.210 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+628578.482 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+628579.369 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+628592.839 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+629094.916 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+629095.171 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+629097.281 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+629109.511 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+630611.541 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+630611.822 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+630612.027 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+630657.551 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+630676.182 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+634153.350 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+634162.031 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+634176.182 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+635178.217 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+635178.619 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+635369.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+635369.176 SetValueAction 
+635369.208 SetValueAction 
+635369.244 SetValueAction 
+635369.275 SetValueAction 
+635369.306 SetValueAction 
+635369.337 SetValueAction 
+635474.957 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+635492.852 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+635670.039 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+635678.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+635692.840 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+636669.980 TIMER Study_Phase.SEQUENCE.TIMER
+636678.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+636692.843 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+636894.907 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+636895.175 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+636896.027 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+636909.511 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+637411.544 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+637411.794 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+637419.042 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+637426.173 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+638928.220 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+638928.539 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+638928.756 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+638968.529 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+638976.171 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+642453.298 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+642462.031 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+642476.183 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+643478.196 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+643478.694 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+643668.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+643668.176 SetValueAction 
+643668.234 SetValueAction 
+643668.296 SetValueAction 
+643668.330 SetValueAction 
+643668.379 SetValueAction 
+643668.420 SetValueAction 
+643779.060 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+643792.845 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+643969.955 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+643978.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+643992.853 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+644970.030 TIMER Study_Phase.SEQUENCE.TIMER
+644978.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+644992.843 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+645194.865 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+645195.128 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+645196.049 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+645209.505 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+645711.524 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+645711.866 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+645713.973 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+645726.179 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+647228.248 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+647228.613 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+647228.801 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+647232.661 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+647242.840 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+650719.925 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+650728.031 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+650742.853 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+651744.886 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+651745.313 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+651935.097 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+651935.171 SetValueAction 
+651935.202 SetValueAction 
+651935.239 SetValueAction 
+651935.270 SetValueAction 
+651935.300 SetValueAction 
+651935.331 SetValueAction 
+652043.963 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+652059.521 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+652236.649 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+652245.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+652259.510 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+653236.682 TIMER Study_Phase.SEQUENCE.TIMER
+653245.022 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+653259.511 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+653461.531 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+653461.795 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+653462.712 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+653476.178 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+653978.278 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+653978.538 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+653979.478 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+653992.838 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+655494.928 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+655495.209 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+655495.413 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+655532.279 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+655542.847 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+659019.920 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+659028.028 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+659042.843 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+660044.861 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+660045.242 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+660236.124 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+660236.219 SetValueAction 
+660236.255 SetValueAction 
+660236.300 SetValueAction 
+660236.335 SetValueAction 
+660236.403 SetValueAction 
+660236.455 SetValueAction 
+660341.945 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+660359.515 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+660536.709 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+660545.026 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+660559.509 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+661536.709 TIMER Study_Phase.SEQUENCE.TIMER
+661545.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+661559.510 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+661761.518 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+661761.807 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+661762.738 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+661776.178 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+662278.184 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+662278.454 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+662285.938 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+662292.837 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+663794.934 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+663795.205 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+663795.387 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+663836.673 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+663859.517 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+667336.608 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+667345.035 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+667359.516 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+668361.517 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+668361.903 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+668552.098 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+668552.173 SetValueAction 
+668552.204 SetValueAction 
+668552.240 SetValueAction 
+668552.272 SetValueAction 
+668552.302 SetValueAction 
+668552.333 SetValueAction 
+668655.977 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+668676.185 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+668853.318 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+668862.027 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+668876.181 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+669853.372 TIMER Study_Phase.SEQUENCE.TIMER
+669862.027 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+669876.173 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+670078.246 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+670078.509 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+670079.413 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+670092.843 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+670594.912 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+670595.171 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+670596.130 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+670609.511 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+672111.581 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+672111.855 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+672112.100 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+672154.625 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+672176.180 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+675653.340 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+675662.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+675676.178 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+676678.219 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+676678.614 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+676869.097 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+676869.171 SetValueAction 
+676869.202 SetValueAction 
+676869.238 SetValueAction 
+676869.268 SetValueAction 
+676869.299 SetValueAction 
+676869.334 SetValueAction 
+676973.004 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+676992.848 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+677169.927 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+677178.027 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+677192.842 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+678169.943 TIMER Study_Phase.SEQUENCE.TIMER
+678178.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+678192.844 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+678394.886 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+678395.158 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+678396.095 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+678409.511 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+678911.558 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+678911.854 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+678914.076 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+678926.185 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+680428.300 TRACKER_TIME 9 827786.712
+680428.331 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+680428.640 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+680428.869 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+680498.655 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+680509.511 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+683986.695 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+683995.035 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+684009.514 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+685011.568 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+685011.948 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+685201.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+685201.177 SetValueAction 
+685201.234 SetValueAction 
+685201.270 SetValueAction 
+685201.301 SetValueAction 
+685201.331 SetValueAction 
+685201.370 SetValueAction 
+685304.982 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+685326.186 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+685503.340 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+685512.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+685526.177 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+686503.391 TIMER Study_Phase.SEQUENCE.TIMER
+686512.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+686526.172 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+686728.259 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+686728.533 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+686729.436 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+686742.848 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+687244.883 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+687245.134 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+687252.464 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+687259.506 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+688761.555 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+688761.831 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+688762.013 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+688765.954 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+688776.171 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+692253.320 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+692262.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+692276.181 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+693278.271 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+693278.713 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+693469.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+693469.176 SetValueAction 
+693469.207 SetValueAction 
+693469.243 SetValueAction 
+693469.278 SetValueAction 
+693469.309 SetValueAction 
+693469.340 SetValueAction 
+693570.956 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+693592.850 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+693769.943 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+693778.027 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+693792.844 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+694769.997 TIMER Study_Phase.SEQUENCE.TIMER
+694778.027 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+694792.843 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+694994.846 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+694995.119 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+694995.992 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+695009.517 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+695511.539 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+695511.793 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+695514.002 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+695526.175 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+697028.268 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+697028.581 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+697028.771 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+697072.957 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+697092.854 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+700570.009 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+700578.030 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+700592.842 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+701594.857 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+701595.254 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+701786.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+701786.182 SetValueAction 
+701786.223 SetValueAction 
+701786.258 SetValueAction 
+701786.290 SetValueAction 
+701786.321 SetValueAction 
+701786.359 SetValueAction 
+701890.953 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+701909.512 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+702086.661 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+702095.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+702109.506 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+703086.652 TIMER Study_Phase.SEQUENCE.TIMER
+703095.027 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+703109.503 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+703311.524 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+703311.789 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+703312.722 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+703326.185 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+703828.279 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+703828.652 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+703829.684 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+703842.842 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+705345.009 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+705345.319 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+705345.543 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+705386.431 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+705392.838 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+708886.610 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+708895.028 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+708909.514 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+709911.554 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+709911.942 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+710102.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+710102.181 SetValueAction 
+710102.270 SetValueAction 
+710102.316 SetValueAction 
+710102.358 SetValueAction 
+710102.426 SetValueAction 
+710102.475 SetValueAction 
+710206.990 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+710226.187 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+710403.258 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+710412.026 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+710426.178 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+711403.264 TIMER Study_Phase.SEQUENCE.TIMER
+711412.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+711426.171 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+711628.222 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+711628.523 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+711629.448 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+711642.838 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+712144.904 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+712145.248 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+712152.584 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+712159.509 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+713661.536 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+713661.805 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+713662.085 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+713699.431 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+713709.504 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+717186.752 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+717195.033 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+717209.512 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+718211.602 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+718212.025 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+718401.107 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+718401.191 SetValueAction 
+718401.239 SetValueAction 
+718401.289 SetValueAction 
+718401.324 SetValueAction 
+718401.358 SetValueAction 
+718401.392 SetValueAction 
+718504.942 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+718526.184 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+718703.270 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+718712.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+718726.179 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+719703.343 TIMER Study_Phase.SEQUENCE.TIMER
+719712.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+719726.174 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+719928.243 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+719928.521 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+719929.417 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+719942.838 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+720444.921 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+720445.222 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+720446.187 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+720459.510 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+721961.585 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+721961.855 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+721962.040 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+722006.124 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+722026.185 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+725503.261 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+725512.030 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+725526.181 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+726528.245 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+726528.647 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+726719.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+726719.175 SetValueAction 
+726719.224 SetValueAction 
+726719.265 SetValueAction 
+726719.296 SetValueAction 
+726719.327 SetValueAction 
+726719.366 SetValueAction 
+726823.056 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+726842.855 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+727019.979 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+727028.023 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+727042.841 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+728019.916 TIMER Study_Phase.SEQUENCE.TIMER
+728028.025 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+728042.842 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+728244.866 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+728245.127 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+728246.022 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+728259.505 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+728761.513 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+728761.854 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+728768.985 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+728776.169 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+730278.267 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+730278.595 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+730278.798 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+730323.160 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+730342.852 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+733819.915 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+733828.034 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+733842.842 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+734844.877 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+734845.257 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+735035.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+735035.175 SetValueAction 
+735035.215 SetValueAction 
+735035.252 SetValueAction 
+735035.283 SetValueAction 
+735035.314 SetValueAction 
+735035.345 SetValueAction 
+735142.966 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+735159.512 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+735336.687 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+735345.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+735359.511 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+736336.666 TIMER Study_Phase.SEQUENCE.TIMER
+736345.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+736359.505 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+736561.549 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+736561.817 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+736562.733 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+736576.176 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+737078.180 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+737078.494 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+737085.921 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+737092.846 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+738594.881 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+738595.154 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+738595.375 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+738642.313 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+738659.516 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+742136.625 TRACKER_TIME 10 889496.845
+742136.654 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+742145.034 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+742159.509 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+743161.532 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+743161.960 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+743351.107 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+743351.187 SetValueAction 
+743351.222 SetValueAction 
+743351.268 SetValueAction 
+743351.299 SetValueAction 
+743351.330 SetValueAction 
+743351.361 SetValueAction 
+743456.996 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+743476.179 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+743653.264 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+743662.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+743676.173 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+744653.326 TIMER Study_Phase.SEQUENCE.TIMER
+744662.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+744676.176 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+744878.250 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+744878.526 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+744879.414 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+744892.845 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+745394.958 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+745395.220 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+745396.139 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+745409.508 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+746911.516 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+746911.792 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+746912.019 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+746915.316 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+746926.171 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+750403.255 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+750412.031 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+750426.180 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+751428.238 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+751428.679 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+751621.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+751621.179 SetValueAction 
+751621.211 SetValueAction 
+751621.246 SetValueAction 
+751621.277 SetValueAction 
+751621.307 SetValueAction 
+751621.338 SetValueAction 
+751722.937 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+751742.851 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+751919.947 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+751928.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+751942.841 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+752919.931 TIMER Study_Phase.SEQUENCE.TIMER
+752928.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+752942.841 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+753144.882 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+753145.145 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+753145.980 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+753159.511 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+753661.512 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+753661.768 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+753662.698 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+753676.179 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+755178.247 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+755178.532 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+755178.729 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+755190.898 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+755209.512 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+758686.691 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+758695.031 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+758709.513 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+759711.546 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+759711.933 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+759900.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+759900.180 SetValueAction 
+759900.221 SetValueAction 
+759900.256 SetValueAction 
+759900.288 SetValueAction 
+759900.318 SetValueAction 
+759900.349 SetValueAction 
+760003.941 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+760026.187 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+760203.360 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+760212.028 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+760226.174 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+761203.361 TIMER Study_Phase.SEQUENCE.TIMER
+761212.025 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+761226.171 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+761428.201 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+761428.480 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+761429.367 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+761442.838 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+761944.899 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+761945.238 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+761946.134 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+761959.504 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+763461.566 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+763461.883 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+763462.087 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+763508.570 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+763526.182 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+767003.414 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+767012.029 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+767026.181 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+768028.192 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+768028.570 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+768218.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+768218.173 SetValueAction 
+768218.228 SetValueAction 
+768218.287 SetValueAction 
+768218.321 SetValueAction 
+768218.353 SetValueAction 
+768218.412 SetValueAction 
+768320.978 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+768342.853 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+768519.959 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+768528.023 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+768542.845 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+769519.941 TIMER Study_Phase.SEQUENCE.TIMER
+769528.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+769542.847 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+769744.893 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+769745.160 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+769746.054 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+769759.511 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+770261.502 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+770261.798 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+770262.731 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+770276.179 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+771778.213 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+771778.545 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+771778.805 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+771821.890 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+771842.852 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+775320.008 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+775328.029 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+775342.845 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+776344.893 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+776345.289 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+776536.103 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+776536.179 SetValueAction 
+776536.218 SetValueAction 
+776536.254 SetValueAction 
+776536.286 SetValueAction 
+776536.317 SetValueAction 
+776536.373 SetValueAction 
+776641.014 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+776659.519 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+776836.608 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+776845.023 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+776859.509 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+777836.671 TIMER Study_Phase.SEQUENCE.TIMER
+777845.022 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+777859.511 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+778061.516 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+778061.780 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+778062.706 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+778076.177 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+778578.221 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+778578.482 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+778585.880 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+778592.846 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+780094.930 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+780095.211 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+780095.431 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+780138.853 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+780159.517 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+783636.691 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+783645.033 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+783659.513 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+784661.526 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+784662.145 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+784901.107 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+784901.185 SetValueAction 
+784901.217 SetValueAction 
+784901.256 SetValueAction 
+784901.287 SetValueAction 
+784901.318 SetValueAction 
+784901.349 SetValueAction 
+785004.996 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+785026.181 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+785203.377 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+785212.023 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+785226.178 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+786203.385 TIMER Study_Phase.SEQUENCE.TIMER
+786212.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+786226.172 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+786428.292 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+786428.568 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+786429.467 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+786442.845 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+786944.912 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+786945.189 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+786946.179 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+786959.512 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+788461.519 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+788461.831 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+788462.089 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+788505.584 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+788526.179 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+792003.370 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+792012.033 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+792026.181 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+793028.199 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+793028.608 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+793218.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+793218.174 SetValueAction 
+793218.206 SetValueAction 
+793218.241 SetValueAction 
+793218.272 SetValueAction 
+793218.303 SetValueAction 
+793218.333 SetValueAction 
+793321.993 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+793342.850 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+793519.974 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+793528.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+793542.850 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+794519.948 TIMER Study_Phase.SEQUENCE.TIMER
+794528.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+794542.845 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+794744.893 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+794745.168 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+794746.027 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+794759.505 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+795261.554 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+795261.803 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+795269.259 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+795276.172 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+796778.223 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+796778.496 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+796778.683 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+796817.506 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+796826.173 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+800303.315 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+800312.034 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+800326.182 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+801328.240 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+801328.659 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+801519.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+801519.178 SetValueAction 
+801519.209 SetValueAction 
+801519.249 SetValueAction 
+801519.280 SetValueAction 
+801519.310 SetValueAction 
+801519.341 SetValueAction 
+801622.005 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+801642.868 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+801820.023 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+801828.023 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+801842.860 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+802819.932 TRACKER_TIME 11 950181.921
+802819.961 TIMER Study_Phase.SEQUENCE.TIMER
+802828.027 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+802842.857 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+803044.881 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+803045.146 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+803046.036 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+803059.526 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+803561.559 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+803561.816 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+803564.008 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+803576.196 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+805078.308 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+805078.651 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+805078.855 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+805122.109 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+805142.871 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+808619.938 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+808628.027 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+808642.845 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+809644.849 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+809645.228 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+809836.107 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+809836.191 SetValueAction 
+809836.226 SetValueAction 
+809836.265 SetValueAction 
+809836.300 SetValueAction 
+809836.334 SetValueAction 
+809836.394 SetValueAction 
+809939.966 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+809959.520 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+810136.666 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+810145.026 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+810159.509 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+811136.677 TIMER Study_Phase.SEQUENCE.TIMER
+811145.022 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+811159.510 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+811361.574 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+811361.913 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+811362.842 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+811376.172 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+811878.311 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+811878.564 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+811885.891 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+811892.836 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+813394.865 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+813395.140 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+813395.365 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+813399.420 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+813409.514 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+816886.685 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+816895.031 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+816909.512 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+817911.585 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+817911.963 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+818102.098 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+818102.174 SetValueAction 
+818102.267 SetValueAction 
+818102.309 SetValueAction 
+818102.347 SetValueAction 
+818102.400 SetValueAction 
+818102.450 SetValueAction 
+818207.003 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+818226.187 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+818403.292 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+818412.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+818426.178 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+819403.391 TIMER Study_Phase.SEQUENCE.TIMER
+819412.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+819426.174 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+819628.261 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+819628.559 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+819629.454 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+819642.841 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+820144.900 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+820145.163 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+820147.345 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+820159.514 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+821661.598 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+821661.874 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+821662.063 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+821702.938 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+821709.504 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+825186.696 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+825195.034 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+825209.514 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+826211.584 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+826211.974 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+826401.110 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+826401.192 SetValueAction 
+826401.232 SetValueAction 
+826401.272 SetValueAction 
+826401.306 SetValueAction 
+826401.340 SetValueAction 
+826401.374 SetValueAction 
+826502.938 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+826509.506 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+826686.712 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+826695.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+826709.508 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+827686.667 TIMER Study_Phase.SEQUENCE.TIMER
+827695.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+827709.510 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+827911.505 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+827911.770 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+827912.674 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+827926.172 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+828428.195 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+828428.508 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+828435.663 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+828442.840 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+829944.855 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+829945.127 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+829945.392 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+829985.674 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+829992.847 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+833469.954 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+833478.030 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+833492.846 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+834494.837 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+834495.231 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+834686.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+834686.188 SetValueAction 
+834686.239 SetValueAction 
+834686.277 SetValueAction 
+834686.317 SetValueAction 
+834686.349 SetValueAction 
+834686.406 SetValueAction 
+834793.019 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+834809.518 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+834986.593 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+834995.027 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+835009.513 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+835986.643 TIMER Study_Phase.SEQUENCE.TIMER
+835995.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+836009.510 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+836211.572 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+836211.837 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+836212.719 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+836226.172 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+836728.171 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+836728.440 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+836729.360 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+836742.844 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+838244.922 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+838245.193 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+838245.445 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+838248.916 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+838259.509 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+841736.743 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+841745.027 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+841759.512 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+842761.549 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+842761.923 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+842952.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+842952.178 SetValueAction 
+842952.210 SetValueAction 
+842952.246 SetValueAction 
+842952.307 SetValueAction 
+842952.348 SetValueAction 
+842952.412 SetValueAction 
+843059.016 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+843076.183 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+843253.324 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+843262.026 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+843276.180 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+844253.270 TIMER Study_Phase.SEQUENCE.TIMER
+844262.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+844276.174 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+844478.198 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+844478.485 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+844479.368 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+844492.846 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+844994.856 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+844995.121 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+844997.291 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+845009.512 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+846511.589 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+846511.905 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+846512.097 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+846549.190 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+846559.509 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+850036.719 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+850045.031 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+850059.507 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+851061.632 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+851062.020 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+851252.101 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+851252.175 SetValueAction 
+851252.207 SetValueAction 
+851252.242 SetValueAction 
+851252.273 SetValueAction 
+851252.304 SetValueAction 
+851252.335 SetValueAction 
+851355.985 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+851376.182 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+851553.350 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+851562.023 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+851576.173 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+852553.345 TIMER Study_Phase.SEQUENCE.TIMER
+852562.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+852576.177 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+852778.190 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+852778.473 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+852779.375 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+852792.843 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+853294.837 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+853295.135 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+853296.094 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+853309.510 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+854811.547 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+854811.821 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+854812.023 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+854847.715 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+854859.508 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+858336.589 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+858345.029 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+858359.513 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+859361.506 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+859361.935 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+859553.109 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+859553.192 SetValueAction 
+859553.227 SetValueAction 
+859553.266 SetValueAction 
+859553.300 SetValueAction 
+859553.334 SetValueAction 
+859553.368 SetValueAction 
+859662.013 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+859676.174 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+859853.302 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+859862.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+859876.176 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+860853.373 TIMER Study_Phase.SEQUENCE.TIMER
+860862.025 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+860876.179 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+861078.227 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+861078.525 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+861079.459 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+861092.838 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+861594.928 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+861595.185 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+861602.334 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+861609.503 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+863111.639 TRACKER_TIME 12 1010475.382
+863111.669 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+863111.939 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+863112.131 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+863151.013 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+863159.506 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+866636.638 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+866645.031 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+866659.514 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+867661.543 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+867661.929 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+867851.103 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+867851.179 SetValueAction 
+867851.220 SetValueAction 
+867851.256 SetValueAction 
+867851.288 SetValueAction 
+867851.319 SetValueAction 
+867851.358 SetValueAction 
+867955.966 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+867976.185 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+868153.290 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+868162.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+868176.177 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+869153.297 TIMER Study_Phase.SEQUENCE.TIMER
+869162.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+869176.177 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+869378.238 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+869378.511 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+869379.417 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+869392.844 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+869894.922 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+869895.178 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+869902.724 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+869909.503 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+871411.599 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+871411.917 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+871412.103 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+871458.711 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+871476.185 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+874953.309 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+874962.035 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+874976.182 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+875978.236 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+875978.672 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+876170.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+876170.174 SetValueAction 
+876170.227 SetValueAction 
+876170.266 SetValueAction 
+876170.298 SetValueAction 
+876170.329 SetValueAction 
+876170.391 SetValueAction 
+876275.011 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+876292.852 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+876469.916 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+876478.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+876492.840 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+877470.022 TIMER Study_Phase.SEQUENCE.TIMER
+877478.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+877492.839 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+877694.853 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+877695.115 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+877695.985 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+877709.506 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+878211.562 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+878211.819 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+878219.080 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+878226.178 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+879728.181 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+879728.471 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+879728.713 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+879772.115 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+879792.854 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+883269.955 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+883278.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+883292.847 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+884294.849 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+884295.229 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+884485.098 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+884485.172 SetValueAction 
+884485.205 SetValueAction 
+884485.247 SetValueAction 
+884485.278 SetValueAction 
+884485.309 SetValueAction 
+884485.339 SetValueAction 
+884589.068 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+884609.522 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+884786.630 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+884795.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+884809.511 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+885786.661 TIMER Study_Phase.SEQUENCE.TIMER
+885795.029 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+885809.511 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+886011.560 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+886011.828 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+886012.751 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+886026.176 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+886528.242 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+886528.511 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+886530.830 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+886542.840 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+888044.882 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+888045.151 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+888045.407 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+888049.656 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+888059.506 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+891536.690 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+891545.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+891559.516 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+892561.524 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+892561.911 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+892751.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+892751.172 SetValueAction 
+892751.205 SetValueAction 
+892751.259 SetValueAction 
+892751.292 SetValueAction 
+892751.323 SetValueAction 
+892751.362 SetValueAction 
+892853.974 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+892876.188 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+893053.266 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+893062.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+893076.175 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+894053.324 TIMER Study_Phase.SEQUENCE.TIMER
+894062.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+894076.177 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+894278.230 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+894278.510 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+894279.405 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+894292.837 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+894794.895 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+894795.247 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+894796.183 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+894809.512 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+896311.530 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+896311.807 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+896312.005 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+896315.437 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+896326.181 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+899803.289 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+899812.029 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+899826.175 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+900828.169 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+900828.568 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+901018.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+901018.174 SetValueAction 
+901018.214 SetValueAction 
+901018.250 SetValueAction 
+901018.281 SetValueAction 
+901018.312 SetValueAction 
+901018.343 SetValueAction 
+901122.087 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+901142.855 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+901319.988 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+901328.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+901342.851 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+902319.949 TIMER Study_Phase.SEQUENCE.TIMER
+902328.025 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+902342.840 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+902544.884 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+902545.156 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+902546.050 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+902559.506 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+903061.657 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+903061.912 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+903069.150 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+903076.173 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+904578.282 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+904578.563 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+904578.760 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+904582.849 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+904592.847 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+908070.038 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+908078.034 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+908092.849 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+909094.836 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+909095.271 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+909290.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+909290.179 SetValueAction 
+909290.219 SetValueAction 
+909290.254 SetValueAction 
+909290.285 SetValueAction 
+909290.315 SetValueAction 
+909290.372 SetValueAction 
+909392.038 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+909409.522 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+909586.629 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+909595.026 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+909609.512 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+910586.667 TIMER Study_Phase.SEQUENCE.TIMER
+910595.026 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+910609.511 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+910811.518 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+910811.787 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+910812.691 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+910826.179 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+911328.254 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+911328.509 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+911335.887 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+911342.846 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+912844.878 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+912845.146 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+912845.328 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+912890.712 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+912909.517 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+916386.665 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+916395.026 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+916409.512 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+917411.531 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+917411.917 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+917602.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+917602.178 SetValueAction 
+917602.216 SetValueAction 
+917602.251 SetValueAction 
+917602.286 SetValueAction 
+917602.317 SetValueAction 
+917602.348 SetValueAction 
+917706.964 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+917726.183 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+917903.384 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+917912.026 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+917926.175 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+918903.260 TIMER Study_Phase.SEQUENCE.TIMER
+918912.022 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+918926.174 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+919128.212 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+919128.487 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+919129.375 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+919142.845 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+919644.876 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+919645.126 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+919646.099 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+919659.505 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+921161.578 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+921161.898 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+921162.087 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+921199.366 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+921209.505 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+924686.625 TRACKER_TIME 13 1072052.171
+924686.655 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+924695.031 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+924709.515 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+925711.594 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+925711.975 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+925901.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+925901.180 SetValueAction 
+925901.221 SetValueAction 
+925901.256 SetValueAction 
+925901.287 SetValueAction 
+925901.318 SetValueAction 
+925901.357 SetValueAction 
+926007.092 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+926026.180 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+926203.275 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+926212.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+926226.177 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+927203.272 TIMER Study_Phase.SEQUENCE.TIMER
+927212.026 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+927226.172 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+927428.175 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+927428.437 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+927429.309 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+927442.839 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+927944.903 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+927945.200 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+927946.129 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+927959.503 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+929461.500 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+929461.771 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+929461.960 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+929504.826 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+929526.177 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+933003.375 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+933012.028 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+933026.180 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+934028.263 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+934028.692 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+934219.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+934219.174 SetValueAction 
+934219.207 SetValueAction 
+934219.242 SetValueAction 
+934219.273 SetValueAction 
+934219.304 SetValueAction 
+934219.335 SetValueAction 
+934304.947 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+934326.180 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+934503.352 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+934512.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+934526.178 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+935503.297 TIMER Study_Phase.SEQUENCE.TIMER
+935512.025 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+935526.184 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+935728.238 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+935728.517 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+935729.427 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+935742.841 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+936244.964 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+936245.220 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+936247.428 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+936259.517 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+937761.584 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+937761.989 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+937762.185 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+937800.904 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+937809.516 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+941286.588 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+941295.033 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+941309.512 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+942311.508 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+942311.885 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+942502.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+942502.172 SetValueAction 
+942502.204 SetValueAction 
+942502.241 SetValueAction 
+942502.272 SetValueAction 
+942502.303 SetValueAction 
+942502.333 SetValueAction 
+942605.988 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+942626.187 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+942803.265 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+942812.022 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+942826.177 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+943803.385 TIMER Study_Phase.SEQUENCE.TIMER
+943812.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+943826.176 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+944028.229 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+944028.536 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+944029.410 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+944042.838 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+944544.843 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+944545.127 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+944552.557 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+944559.511 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+946061.607 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+946061.874 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+946062.058 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+946103.402 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+946109.505 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+949586.663 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+949595.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+949609.514 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+950611.510 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+950611.892 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+950801.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+950801.173 SetValueAction 
+950801.217 SetValueAction 
+950801.256 SetValueAction 
+950801.287 SetValueAction 
+950801.317 SetValueAction 
+950801.348 SetValueAction 
+950905.974 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+950926.185 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+951103.291 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+951112.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+951126.179 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+952103.337 TIMER Study_Phase.SEQUENCE.TIMER
+952112.025 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+952126.178 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+952328.200 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+952328.491 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+952329.379 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+952342.842 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+952844.878 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+952845.134 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+952847.282 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+952859.514 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+954361.529 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+954361.803 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+954361.997 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+954408.679 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+954426.185 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+957903.327 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+957912.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+957926.191 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+958928.240 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+958928.680 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+959119.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+959119.181 SetValueAction 
+959119.212 SetValueAction 
+959119.247 SetValueAction 
+959119.279 SetValueAction 
+959119.309 SetValueAction 
+959119.340 SetValueAction 
+959220.991 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+959242.858 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+959419.973 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+959428.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+959442.867 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+960420.024 TIMER Study_Phase.SEQUENCE.TIMER
+960428.026 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+960442.857 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+960644.861 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+960645.127 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+960646.084 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+960659.522 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+961161.520 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+961161.774 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+961169.213 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+961176.189 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+962678.224 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+962678.533 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+962678.752 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+962715.352 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+962726.177 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+966203.277 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+966212.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+966226.177 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+967228.212 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+967228.610 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+967420.101 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+967420.174 SetValueAction 
+967420.210 SetValueAction 
+967420.267 SetValueAction 
+967420.300 SetValueAction 
+967420.331 SetValueAction 
+967420.390 SetValueAction 
+967522.052 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+967542.858 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+967719.929 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+967728.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+967742.844 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+968719.972 TIMER Study_Phase.SEQUENCE.TIMER
+968728.026 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+968742.840 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+968944.836 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+968945.099 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+968946.013 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+968959.512 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+969461.583 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+969461.839 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+969469.208 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+969476.180 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+970978.178 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+970978.472 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+970978.682 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+971019.293 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+971026.180 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+974503.264 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+974512.031 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+974526.173 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+975528.179 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+975528.586 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+975720.098 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+975720.172 SetValueAction 
+975720.204 SetValueAction 
+975720.243 SetValueAction 
+975720.275 SetValueAction 
+975720.306 SetValueAction 
+975720.337 SetValueAction 
+975824.981 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+975842.850 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+976019.956 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+976028.030 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+976042.839 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+977019.925 TIMER Study_Phase.SEQUENCE.TIMER
+977028.025 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+977042.845 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+977244.892 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+977245.158 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+977246.017 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+977259.511 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+977761.532 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+977761.817 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+977769.074 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+977776.179 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+979278.271 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+979278.538 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+979278.720 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+979301.704 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+979309.513 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+982786.603 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+982795.031 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+982809.514 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+983811.565 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+983811.950 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+984003.101 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+984003.178 SetValueAction 
+984003.236 SetValueAction 
+984003.274 SetValueAction 
+984003.306 SetValueAction 
+984003.338 SetValueAction 
+984003.381 SetValueAction 
+984107.046 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+984126.183 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+984303.346 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+984312.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+984326.184 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+985303.301 TRACKER_TIME 14 1132670.617
+985303.335 TIMER Study_Phase.SEQUENCE.TIMER
+985312.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+985326.174 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+985528.219 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+985528.482 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+985529.357 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+985542.840 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+986044.867 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+986045.118 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+986047.283 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+986059.512 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+987561.615 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+987561.934 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+987562.142 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+987603.979 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+987626.182 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+991103.414 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+991112.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+991126.181 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+992128.216 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+992128.608 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+992317.101 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+992317.182 SetValueAction 
+992317.215 SetValueAction 
+992317.272 SetValueAction 
+992317.305 SetValueAction 
+992317.336 SetValueAction 
+992317.368 SetValueAction 
+992403.968 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+992426.184 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+992603.309 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+992612.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+992626.172 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+993603.343 TIMER Study_Phase.SEQUENCE.TIMER
+993612.025 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+993626.174 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+993828.191 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+993828.477 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+993829.343 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+993842.837 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+994344.868 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+994345.119 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+994352.443 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+994359.502 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+995861.567 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+995861.886 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+995862.093 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+995901.419 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+995909.509 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+999386.708 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+999395.032 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+999409.516 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+1000411.533 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+1000411.919 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+1000602.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1000602.174 SetValueAction 
+1000602.213 SetValueAction 
+1000602.249 SetValueAction 
+1000602.280 SetValueAction 
+1000602.311 SetValueAction 
+1000602.347 SetValueAction 
+1000706.006 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+1000726.185 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+1000903.331 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+1000912.023 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+1000926.175 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+1001903.297 TIMER Study_Phase.SEQUENCE.TIMER
+1001912.023 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+1001926.178 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+1002128.185 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+1002128.473 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+1002129.330 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+1002142.845 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+1002644.878 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+1002645.176 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+1002647.408 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+1002659.513 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+1004161.559 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+1004161.855 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+1004162.074 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+1004166.219 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+1004176.180 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+1007653.405 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+1007662.028 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+1007676.181 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+1008678.220 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+1008678.618 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+1008868.104 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1008868.181 SetValueAction 
+1008868.223 SetValueAction 
+1008868.259 SetValueAction 
+1008868.290 SetValueAction 
+1008868.321 SetValueAction 
+1008868.385 SetValueAction 
+1008971.936 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+1008992.853 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+1009169.946 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+1009178.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+1009192.845 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+1010170.007 TIMER Study_Phase.SEQUENCE.TIMER
+1010178.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+1010192.845 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+1010394.859 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+1010395.126 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+1010395.993 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+1010409.506 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+1010911.545 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+1010911.797 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+1010912.712 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+1010926.185 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+1012428.379 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+1012428.683 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+1012428.890 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+1012432.208 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+1012442.845 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+1015919.951 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+1015928.030 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+1015942.843 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+1016944.881 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+1016945.274 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+1017135.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1017135.179 SetValueAction 
+1017135.210 SetValueAction 
+1017135.245 SetValueAction 
+1017135.276 SetValueAction 
+1017135.307 SetValueAction 
+1017135.338 SetValueAction 
+1017239.988 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+1017259.522 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+1017436.627 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+1017445.025 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+1017459.510 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+1018436.614 TIMER Study_Phase.SEQUENCE.TIMER
+1018445.025 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+1018459.511 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+1018661.579 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+1018661.845 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+1018662.751 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+1018676.172 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+1019178.214 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+1019178.509 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+1019179.487 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+1019192.845 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+1020694.858 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+1020695.158 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+1020695.392 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+1020698.724 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+1020709.514 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+1024186.643 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+1024195.029 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+1024209.513 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+1025211.534 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+1025211.914 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+1025401.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1025401.177 SetValueAction 
+1025401.217 SetValueAction 
+1025401.253 SetValueAction 
+1025401.284 SetValueAction 
+1025401.315 SetValueAction 
+1025401.346 SetValueAction 
+1025505.002 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1 (BEGIN) 
+1025526.180 Blank_Screen_1 Study_Phase.SEQUENCE.Blank_Screen_1
+1025703.291 TIMER[5] Study_Phase.SEQUENCE.TIMER[5]
+1025712.024 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen (BEGIN) 
+1025726.177 Blink_Screen Study_Phase.SEQUENCE.Blink_Screen
+1026703.286 TIMER Study_Phase.SEQUENCE.TIMER
+1026712.024 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen (BEGIN) 
+1026726.182 Blank_Screen Study_Phase.SEQUENCE.Blank_Screen
+1026928.187 TIMER[4] Study_Phase.SEQUENCE.TIMER[4]
+1026928.474 SEND_EL_MSG[1] Study_Phase.SEQUENCE.SEND_EL_MSG[1]
+1026929.365 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue (BEGIN) 
+1026942.844 Study_Luminance_Cue Study_Phase.SEQUENCE.Study_Luminance_Cue
+1027444.881 TIMER[2] Study_Phase.SEQUENCE.TIMER[2]
+1027445.175 SEND_EL_MSG_Study_Cue Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Cue
+1027452.512 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN (BEGIN) 
+1027459.504 DISPLAY_SCREEN Study_Phase.SEQUENCE.DISPLAY_SCREEN
+1028961.553 TIMER[6] Study_Phase.SEQUENCE.TIMER[6]
+1028962.067 SEND_EL_MSG Study_Phase.SEQUENCE.SEND_EL_MSG
+1028962.252 SEND_EL_MSG_Study_Word Study_Phase.SEQUENCE.SEND_EL_MSG_Study_Word
+1028999.944 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction (BEGIN) 
+1029009.512 Study_Instruction Study_Phase.SEQUENCE.Study_Instruction
+1032486.691 TIMER[1] Study_Phase.SEQUENCE.TIMER[1]
+1032495.031 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End (BEGIN) 
+1032509.516 Study_Luminance_Cue_End Study_Phase.SEQUENCE.Study_Luminance_Cue_End
+1033511.538 TIMER[3] Study_Phase.SEQUENCE.TIMER[3]
+1033512.187 ADD_TO_RESULTS_FILE Study_Phase.SEQUENCE.ADD_TO_RESULTS_FILE
+1034195.098 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1034195.176 SetValueAction 
+1034195.213 SetValueAction 
+1034195.253 SetValueAction 
+1034195.284 SetValueAction 
+1034195.314 SetValueAction 
+1034195.345 SetValueAction 
+1038911.103 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1038911.178 SetValueAction 
+1038911.219 SetValueAction 
+1038911.254 SetValueAction 
+1038911.285 SetValueAction 
+1038911.316 SetValueAction 
+1038911.347 SetValueAction 
+1043625.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1043625.174 SetValueAction 
+1043625.210 SetValueAction 
+1043625.262 SetValueAction 
+1043625.296 SetValueAction 
+1043625.330 SetValueAction 
+1043625.361 SetValueAction 
+1048340.001 TRACKER_TIME 15 1195708.586
+1048340.020 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1048340.103 SetValueAction 
+1048340.135 SetValueAction 
+1048340.173 SetValueAction 
+1048340.207 SetValueAction 
+1048340.282 SetValueAction 
+1048340.319 SetValueAction 
+1053053.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1053053.183 SetValueAction 
+1053053.216 SetValueAction 
+1053053.255 SetValueAction 
+1053053.290 SetValueAction 
+1053053.322 SetValueAction 
+1053053.352 SetValueAction 
+1057768.104 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1057768.183 SetValueAction 
+1057768.223 SetValueAction 
+1057768.260 SetValueAction 
+1057768.291 SetValueAction 
+1057768.322 SetValueAction 
+1057768.393 SetValueAction 
+1062482.098 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1062482.171 SetValueAction 
+1062482.203 SetValueAction 
+1062482.271 SetValueAction 
+1062482.312 SetValueAction 
+1062482.344 SetValueAction 
+1062482.374 SetValueAction 
+1067196.102 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1067196.175 SetValueAction 
+1067196.214 SetValueAction 
+1067196.250 SetValueAction 
+1067196.282 SetValueAction 
+1067196.312 SetValueAction 
+1067196.351 SetValueAction 
+1071910.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1071910.177 SetValueAction 
+1071910.209 SetValueAction 
+1071910.244 SetValueAction 
+1071910.279 SetValueAction 
+1071910.311 SetValueAction 
+1071910.341 SetValueAction 
+1076615.106 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1076615.186 SetValueAction 
+1076615.225 SetValueAction 
+1076615.261 SetValueAction 
+1076615.292 SetValueAction 
+1076615.327 SetValueAction 
+1076615.364 SetValueAction 
+1081315.104 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1081315.181 SetValueAction 
+1081315.214 SetValueAction 
+1081315.250 SetValueAction 
+1081315.281 SetValueAction 
+1081315.313 SetValueAction 
+1081315.344 SetValueAction 
+1086016.103 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1086016.182 SetValueAction 
+1086016.236 SetValueAction 
+1086016.285 SetValueAction 
+1086016.318 SetValueAction 
+1086016.349 SetValueAction 
+1086016.389 SetValueAction 
+1090716.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1090716.172 SetValueAction 
+1090716.214 SetValueAction 
+1090716.250 SetValueAction 
+1090716.281 SetValueAction 
+1090716.312 SetValueAction 
+1090716.342 SetValueAction 
+1095416.097 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1095416.173 SetValueAction 
+1095416.204 SetValueAction 
+1095416.245 SetValueAction 
+1095416.277 SetValueAction 
+1095416.308 SetValueAction 
+1095416.338 SetValueAction 
+1100116.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1100116.173 SetValueAction 
+1100116.212 SetValueAction 
+1100116.282 SetValueAction 
+1100116.326 SetValueAction 
+1100116.373 SetValueAction 
+1100116.410 SetValueAction 
+1104818.101 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1104818.181 SetValueAction 
+1104818.218 SetValueAction 
+1104818.255 SetValueAction 
+1104818.292 SetValueAction 
+1104818.322 SetValueAction 
+1104818.358 SetValueAction 
+1109523.001 TRACKER_TIME 16 1256891.586
+1109523.018 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1109523.102 SetValueAction 
+1109523.140 SetValueAction 
+1109523.176 SetValueAction 
+1109523.207 SetValueAction 
+1109523.239 SetValueAction 
+1109523.274 SetValueAction 
+1114225.101 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1114225.175 SetValueAction 
+1114225.215 SetValueAction 
+1114225.251 SetValueAction 
+1114225.283 SetValueAction 
+1114225.313 SetValueAction 
+1114225.371 SetValueAction 
+1118925.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1118925.175 SetValueAction 
+1118925.207 SetValueAction 
+1118925.242 SetValueAction 
+1118925.273 SetValueAction 
+1118925.303 SetValueAction 
+1118925.334 SetValueAction 
+1123626.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1123626.173 SetValueAction 
+1123626.205 SetValueAction 
+1123626.246 SetValueAction 
+1123626.277 SetValueAction 
+1123626.326 SetValueAction 
+1123626.391 SetValueAction 
+1128326.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1128326.173 SetValueAction 
+1128326.212 SetValueAction 
+1128326.254 SetValueAction 
+1128326.285 SetValueAction 
+1128326.316 SetValueAction 
+1128326.347 SetValueAction 
+1133026.101 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1133026.179 SetValueAction 
+1133026.212 SetValueAction 
+1133026.247 SetValueAction 
+1133026.278 SetValueAction 
+1133026.309 SetValueAction 
+1133026.340 SetValueAction 
+1137727.100 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1137727.177 SetValueAction 
+1137727.209 SetValueAction 
+1137727.245 SetValueAction 
+1137727.276 SetValueAction 
+1137727.311 SetValueAction 
+1137727.342 SetValueAction 
+1142428.099 PREPARE_SEQUENCE Study_Phase.PREPARE_SEQUENCE
+1142428.172 SetValueAction 
+1142428.204 SetValueAction 
+1142428.245 SetValueAction 
+1142428.277 SetValueAction 
+1142428.307 SetValueAction 
+1142428.338 SetValueAc
